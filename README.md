@@ -13,8 +13,7 @@ This Python Program aims at providing a tweaked version of Playfair Cipher in cr
 The following output can be generated using the algorithm. The python code may be further enhanced by working on a structured output and input functionality.
 
 Encryption
-<pre><code>
-PT = "HEYO MAN"
+<pre><code>PT = "HEYO MAN"
 encrypt(matrix,PT)
 </code></pre>
 
