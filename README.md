@@ -22,3 +22,10 @@ Encryption output
 
 Decryption output
 <pre><code>[['HE', 'YO', 'MA', 'NX']]</code></pre>
+
+
+## Built with ##
+* [Jupyter Notebook](https://jupyter.org/) 
+
+## Acknowledgement ##
+* Thanks to the Prof. Monali Shetty, Fr.CRCE, Bandra for mentoring me through this project.
